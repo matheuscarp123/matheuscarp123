@@ -1,9 +1,5 @@
 # Olá, eu sou o Matheus Carvalho! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-  <img align="left" alt="LinkedIn do Matheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-<br />
 
 Sou um profissional de TI com foco em Front-End, apaixonado por transformar ideias em experiências digitais intuitivas e envolventes, especialmente com **React, React Native e Node.js**. Meu objetivo é construir software que não seja apenas funcional, mas também visualmente atraente e prazeroso de usar.
 
